@@ -1,9 +1,0 @@
-# Viajeu
-READ ME IT4S IMPORTNANT
-
-LOOK A BIT BELOW CAUSE IT4S VERY IMPORTANT
-
-CLICK THIS LINK PLIS
-
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
-
