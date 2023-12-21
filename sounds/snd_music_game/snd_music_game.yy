@@ -10,7 +10,7 @@
   "bitRate": 128,
   "compression": 0,
   "conversionMode": 0,
-  "duration": 76.8,
+  "duration": 136.0,
   "parent": {
     "name": "Music",
     "path": "folders/Sounds/Music.yy",
@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "snd_music_game.wav",
   "type": 0,
-  "volume": 0.5,
+  "volume": 1.0,
 }

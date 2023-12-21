@@ -37,10 +37,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_vianney_idle",
-    "path": "sprites/spr_vianney_idle/spr_vianney_idle.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

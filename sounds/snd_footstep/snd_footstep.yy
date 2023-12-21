@@ -10,7 +10,7 @@
   "bitRate": 128,
   "compression": 2,
   "conversionMode": 0,
-  "duration": 1.180021,
+  "duration": 1.5,
   "parent": {
     "name": "Characters",
     "path": "folders/Sounds/Characters.yy",
