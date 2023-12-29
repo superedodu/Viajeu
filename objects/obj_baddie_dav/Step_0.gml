@@ -15,7 +15,7 @@ if((l563A63E1_0))
 	
 		// Set the path follow speed
 		// to 0 so it stops moving
-		path_speed = 0;
+		mp_linear_path_object (path_enem_7,obj_player.x,obj_player.y,10,obj_editor_wall);
 	
 		// Get the distance to the player
 		// on the X axis
